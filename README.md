@@ -7,14 +7,13 @@
 
 ![Repo stars](https://img.shields.io/github/stars/GeorgeFence/IDS?style=for-the-badge&color=yellow)
 ![Static Badge](https://img.shields.io/badge/build-passing-green?style=for-the-badge)
-<a href="https://github.com/GeorgeFence/IDS/releases/latest">
-  <img src="https://img.shields.io/badge/Download the latest version-gray?style=for-the-badge" alt="Latest ISO">
+<a href="https://github.com/GeorgeFence/IDS/blob/204ea2b411be5c96b5fe662870c6f1f918119a01/IDSInstall.exe">
+  <img src="https://img.shields.io/badge/Download Installer-gray?style=for-the-badge" alt="Latest Version">
 </a>
 
 </div></h1>
 
 Data system for [DIGNUS](https://www.dignus.cz/)
-
 ## Features ✨
 
  - Connecting to PostgreSQL
